@@ -38,14 +38,11 @@
 | Game | Graphics API | Status |
 |------|-------------|--------|
 | Hogwarts Legacy | DX12 | ✅ Verified |
-| Cyberpunk 2077 | DX12 | ✅ Verified |
-| Elden Ring | DX12 | ✅ Verified |
-| Red Dead Redemption 2 | Vulkan / DX12 | ✅ Verified |
-| The Witcher 3 | DX11 / DX12 | ✅ Verified |
-| Forza Horizon 5 | DX12 | ✅ Verified |
-| God of War | DX11 | ✅ Verified |
+| Sekiro: Shadows Die Twice | DX11 | ✅ Verified |
+| Mortal Shell | DX11 | ✅ Verified |
+| No Man's Sky | Vulkan | ✅ Verified |
 
-> 💡 **Any DirectX 11/12 or Vulkan game should work!** The list above are just titles we've specifically tested and optimized.
+> 💡 **Any DirectX 11/12 or Vulkan game should work!** The games above are titles we've specifically tested and verified. More coming soon!
 
 ## 🚀 Quick Start
 
