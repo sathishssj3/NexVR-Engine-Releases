@@ -8,14 +8,14 @@
 
 ### 🎮 Play Any PC Game in Virtual Reality
 
-[![Release](https://img.shields.io/github/v/release/sathishssj3/NexVR-Engine-Releases?style=for-the-badge&color=6C3CE1&label=Download)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest)
-[![DirectX](https://img.shields.io/badge/DirectX-11%20%7C%2012-107C10?style=for-the-badge&logo=xbox)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest)
-[![Vulkan](https://img.shields.io/badge/Vulkan-Supported-B71C1C?style=for-the-badge&logo=vulkan)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest)
+[![Release](https://img.shields.io/github/v/release/sathishssj3/NexVR-Engine-Releases?style=for-the-badge&color=6C3CE1&label=Download)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe)
+[![DirectX](https://img.shields.io/badge/DirectX-11%20%7C%2012-107C10?style=for-the-badge&logo=xbox)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe)
+[![Vulkan](https://img.shields.io/badge/Vulkan-Supported-B71C1C?style=for-the-badge&logo=vulkan)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe)
 
 **NexVR Engine is a universal VR injector that transforms any DirectX 11, DirectX 12, or Vulkan game into an immersive stereoscopic 3D VR experience — no game modification required.**
 
-[📥 Download Latest Release](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest) · [🐛 Report Bug](https://github.com/sathishssj3/NexVR-Engine-Releases/issues) · [💡 Request Feature](https://github.com/sathishssj3/NexVR-Engine-Releases/issues)
+[📥 Download Latest Release](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe) · [🐛 Report Bug](https://github.com/sathishssj3/NexVR-Engine-Releases/issues) · [💡 Request Feature](https://github.com/sathishssj3/NexVR-Engine-Releases/issues)
 
 ---
 
@@ -51,11 +51,11 @@ Click the button below to download the latest installer:
 
 <div align="center">
 
-[![Download NexVR Engine](https://img.shields.io/badge/⬇_Download-NexVR_Engine_Setup-6C3CE1?style=for-the-badge&labelColor=1a1a2e)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest)
+[![Download NexVR Engine](https://img.shields.io/badge/⬇_Download-NexVR_Engine_Setup-6C3CE1?style=for-the-badge&labelColor=1a1a2e)](https://github.com/sathishssj3/NexVR-Engine-Releases/releases/latest/download/NexVR-Engine-Setup.exe)
 
 </div>
 
-Run `NexVR Engine Setup 0.1.0.exe` and follow the installation wizard.
+Run `NexVR-Engine-Setup.exe` and follow the installation wizard.
 
 ### 2. Launch & Select Your Game
 Open **NexVR Engine** from your Start Menu or Desktop shortcut. Browse or search for your game.
